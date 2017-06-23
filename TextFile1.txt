@@ -1,0 +1,5 @@
+Use rectangle's isIntersecting method
+loop through the entire list with nested loops (it is taking each object(outside loop) and comparing it to each object (inside loop))
+if paddle-ball collision then flip the dX on the ball
+if ball -ball collision then flip the Y on both balls
+the inside loop will check collision with everything in the list after what is being checked
